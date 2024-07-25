@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(204, 186, 221);
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+nav {
+    padding: 5px;
+    display: flex;
+    font-size: large;
+    background-color: palevioletred;
+    border-radius: 25px
+}
+
+.navs {
+    padding: 15px
+}
+.navs:hover {
+    font-weight: bolder;
+}
+
+#maintext {
+    display: flex;
+    padding-top: 35px;
+    font-size: 40px;
+    justify-content: center;
+}
+
+.divs {
+    border-radius: 25px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(207, 148, 168)
+}
+
+.bold {
+    font-weight: bold;
+}
